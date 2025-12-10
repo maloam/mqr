@@ -24,6 +24,6 @@ Ouyang, Long, et al. "Training language models to follow instructions with human
 ▶ [Object Recognition via AI-Enhanced Integrated Sensing and Communication (ISAC) is Near-SNR-Independent.](https://raw.githubusercontent.com/maloam/mqr/2452559f46cbfcf2adcaafaa3aa64bf2d6264179/JCAS_based_object_identification_using_ML.pdf) </br>
 Object recognition refers to identifying the presence of a physical object through wireless sensing techniques. </br>
 ICAS wireless sensing techniques operate at a shared wavelength, enabling both communication and radar-like sensing within the same spectrum. </br>
-
+The effect of the signal-to-noise ratio on the results is smaller than anticipated. </br>
 
 
