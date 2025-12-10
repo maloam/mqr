@@ -21,7 +21,7 @@ Ouyang, Long, et al. "Training language models to follow instructions with human
 </details>
 <details>
 <summary>Joint Communication and Sensing (JCAS) based Object Identification using Machine Learning</summary>
-These slides are from my final presentation for my master's thesis. I'm just keeping them here for the nostalgia factor.
+[These slides](https://raw.githubusercontent.com/maloam/mqr/2452559f46cbfcf2adcaafaa3aa64bf2d6264179/JCAS_based_object_identification_using_ML.pdf) are from my personal presentation for my master's thesis. I'm just keeping them here for the nostalgia factor.
 </details>
 
 
