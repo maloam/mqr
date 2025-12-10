@@ -19,9 +19,11 @@ In other words, these models are not aligned with their users.
 </summary>
 Ouyang, Long, et al. "Training language models to follow instructions with human feedback." Advances in neural information processing systems 35 (2022): 27730-27744. 
 </details>
-<details>
-<summary>Joint Communication and Sensing (JCAS) based Object Identification using Machine Learning</summary>
-[These slides](https://raw.githubusercontent.com/maloam/mqr/2452559f46cbfcf2adcaafaa3aa64bf2d6264179/JCAS_based_object_identification_using_ML.pdf) are from my personal presentation for my master's thesis. I'm just keeping them here for the nostalgia factor.
-</details>
+
+
+▶ [Object Recognition via AI-Enhanced Integrated Sensing and Communication (ISAC) is Near-SNR-Independent.](https://raw.githubusercontent.com/maloam/mqr/2452559f46cbfcf2adcaafaa3aa64bf2d6264179/JCAS_based_object_identification_using_ML.pdf) </br>
+Object recognition refers to identifying the presence of a physical object through wireless sensing techniques. </br>
+ICAS wireless sensing techniques operate at a shared wavelength, enabling both communication and radar-like sensing within the same spectrum. </br>
+
 
 
