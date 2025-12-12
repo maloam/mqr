@@ -12,18 +12,17 @@ Because the copper cable is no longer necessary or our speed based on distance f
 Vaigandla, Karthik Kumar, et al. "A survey on wireless communications: 6g and 7g." International Journal Of Science, Technology & Management 2.6 (2021): 2018-2025.
 </details>
 
-<details>
-<summary>Making language models bigger does not inherently make them better at following a user’s intent. </br>
+Making language models bigger does not inherently make them *better* at following a user’s intent. </br>
 For example, large language models can generate outputs that are untruthful, toxic, or simply not helpful to the user. </br>
-In other words, these models are not aligned with their users.
-</summary>
-Ouyang, Long, et al. "Training language models to follow instructions with human feedback." Advances in neural information processing systems 35 (2022): 27730-27744. 
-</details>
+In other words, these models are not *aligned* with their users. </br>
+[Ouyang, Long, et al. "Training language models to follow instructions with human feedback." Advances in neural information processing systems 35 (2022): 27730-27744.](https://maloam.github.io/mqr/tlmtfiwhf/IIIon.html)
 
 
-▶ [Object Recognition via AI-Enhanced Integrated Sensing and Communication (ISAC) is Near-SNR-Independent.](https://raw.githubusercontent.com/maloam/mqr/2452559f46cbfcf2adcaafaa3aa64bf2d6264179/JCAS_based_object_identification_using_ML.pdf) </br>
+
+Object Recognition via AI-Enhanced Integrated Sensing and Communication (ISAC) is Near-SNR-Independent.</br>
 Object recognition refers to identifying the presence of a physical object through wireless sensing techniques. </br>
 ICAS wireless sensing techniques operate at a shared wavelength, enabling both communication and radar-like sensing within the same spectrum. </br>
 The effect of the signal-to-noise ratio on the results is smaller than anticipated. </br>
+[Download](https://raw.githubusercontent.com/maloam/mqr/2452559f46cbfcf2adcaafaa3aa64bf2d6264179/JCAS_based_object_identification_using_ML.pdf)
 
 
