@@ -1,5 +1,25 @@
 **M**ini **Q**uote **R**epository **I**n **ON**e file
+</br>
+</br>
+</br>
+``T E C H N I C A L   A L I G N M E N T   I N   A I`` </br></br>
+Making language models bigger does not inherently make them *better* at following a user’s intent. </br>
+For example, large language models can generate outputs that are untruthful, toxic, or simply not helpful to the user. </br>
+In other words, these models are not *aligned* with their users. </br>
+[Ouyang, Long, et al. "Training language models to follow instructions with human feedback." Advances in neural information processing systems 35 (2022): 27730-27744.](https://maloam.github.io/mqr/tlmtfiwhf/IIIon.html)
+</br>
+</br>
+We have trained language assistants that are both *helpful* and *harmless* without using human feedback labels for harmlessness. </br>
+We referred to the technique as ‘constitutional AI’ (CAI) since we used a ‘constitution’ consisting of human-written principles. </br>
+[...]</br>
+We used this method to train models that are both *harmless* and *non-evasive*, partially resolving an issue in [Bai et al., 2022].</br>
+[...]</br>
+Our ultimate goal is *not* to remove human supervision entirely,... </br>
+[Bai, Yuntao, et al. "Constitutional ai: Harmlessness from ai feedback." arXiv preprint arXiv:2212.08073 (2022).](https://maloam.github.io/mqr/cahfaF/IIIIIIon.html)
+</br>
+</br>
 
+``W I R E L E S S`` </br></br>
 
 <details>
 <summary>Four countries have developed systems to achieve global coverage. </br>
@@ -11,12 +31,6 @@ Because the copper cable is no longer necessary or our speed based on distance f
 </summary>
 Vaigandla, Karthik Kumar, et al. "A survey on wireless communications: 6g and 7g." International Journal Of Science, Technology & Management 2.6 (2021): 2018-2025.
 </details>
-
-Making language models bigger does not inherently make them *better* at following a user’s intent. </br>
-For example, large language models can generate outputs that are untruthful, toxic, or simply not helpful to the user. </br>
-In other words, these models are not *aligned* with their users. </br>
-[Ouyang, Long, et al. "Training language models to follow instructions with human feedback." Advances in neural information processing systems 35 (2022): 27730-27744.](https://maloam.github.io/mqr/tlmtfiwhf/IIIon.html)
-
 
 
 Object Recognition via AI-Enhanced Integrated Sensing and Communication (ISAC) is Near-SNR-Independent.</br>
