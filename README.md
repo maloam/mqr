@@ -1,6 +1,17 @@
 **M**ini **Q**uote **R**epository **I**n **ON**e file
 </br>
 </br>
+``P E N T E S T I N G`` </br></br>
+The *stages* of a Penetration Test </br>
+[...] information-gathering </br>
+[...] threat-modeling </br>
+[...] vulnerability analysis </br>
+[...] exploitation </br>
+[...] post-exploitation </br>
+[...] reporting </br>
+[Weidman, Georgia. Penetration testing: a hands-on introduction to hacking. No starch press, 2014.](https://maloam.github.io/mqr/ptahoirth/IIIon.html)
+</br>
+</br>
 </br>
 ``T E C H N I C A L   A L I G N M E N T   I N   A I`` </br></br>
 Making language models bigger does not inherently make them *better* at following a user’s intent. </br>
