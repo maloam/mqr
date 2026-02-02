@@ -53,15 +53,16 @@
     <br>
     <form action="">
         <button>
-            </br>
-            Consider the TTT layer with the Nadaraya-Watson estimator [6, 11], defined as:
-            </br>
-            [...]
-            Then given the same input sequence x1,...,xT, </br>
-            the output rule defined in Equation 5 produces the same output sequence z1,...,zT as <i>self-attention</i>. </br>
+            <br>
+            Self-attention can also be viewed from the perspective above, <br>
+            except that its hidden state, commonly known as the Key-Value (KV) cache, <br>
+            is a list that grows linearly with t. Its update rule simply appends the current KV tuple to this list, <br>
+            and the output rule scans over all tuples up to t to form the attention matrix. <br>
+            The hidden state explicitly stores all historic context without compression,<br>
+            making self-attention <i>more expressive</i>i than RNN layers for long context. <br>
             </br>
             ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</br>
-            <a href="https://arxiv.org/pdf/2407.04620" target="_blank" rel="noopener noreferrer">
+            <a href="" target="_blank" rel="noopener noreferrer">
                 Sun, Yu, et al. "Learning to (learn at test time): Rnns with expressive hidden states." arXiv preprint arXiv:2407.04620 (2024).</a>
             </br>
             </br>
